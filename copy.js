@@ -57,7 +57,7 @@ module.exports = {
       {
         argsIgnorePattern: '^_',
         varsIgnorePattern: '^_',
-      },
+      }
     ],
     '@typescript-eslint/no-explicit-any': 'error',
   },
