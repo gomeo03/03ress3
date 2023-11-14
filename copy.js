@@ -71,3 +71,5 @@ module.exports = {
     },
   ],
 };
+A small propeller plane overshot the runway while landing at a Texas airport, before skidding into a car passing in a road nearby.
+
