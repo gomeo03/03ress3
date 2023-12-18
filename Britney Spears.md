@@ -6,7 +6,6 @@ For 13 years, she could not see her two sons without approval. Her driving licen
 
 That court-imposed order, overseen by her father, was lifted two years ago, when a judge ruled Spears could make her own decisions again.
 
-But her new memoir, The Woman In Me, reveals that was no happy ending.
 
 "Migraines are just one part of the physical and emotional damage I have now that I'm out of the conservatorship," she writes. "I don't think my family understands the real damage that they did."
 
